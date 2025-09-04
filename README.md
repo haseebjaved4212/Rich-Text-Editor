@@ -39,8 +39,8 @@ A simple, modern, and responsive Rich Text Editor web application built with  Ja
 ```
 A Rich Text Editor/
 ├── index.html      # Main HTML file
-├── index.js        # JavaScript logic for editor functionality
-├── index.css       # Styling for the editor
+├── script.js        # JavaScript logic for editor functionality
+├── stylr.css       # Styling for the editor
 └── README.md       # Project documentation (this file)
 ```
 
