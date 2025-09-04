@@ -68,6 +68,6 @@ This project is open-source and free to use, modify, and distribute.
 ---
 ## Preview 
 
-- [ Text Editor ]()
+- [ Text Editor ]( https://haseebjaved4212.github.io/Rich-Text-Editor/)
 
 **Enjoy writing with your new Rich Text Editor!**
